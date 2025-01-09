@@ -20,11 +20,15 @@ To get started with **Arper**, follow these steps:
    ```bash
    git clone https://github.com/scrollDynasty/arp-snif
    ```
-   Change to the project directory
-   ```cd arper```
-   Install dependencies
-   ```pip install -r requirements.txt```
-   Using
-   ```sudo python3 arper.py <victim_ip> <gateway_ip> <interface>```
-   Example:
-   ```sudo python3 arper.py 192.168.100.3 192.168.100.13 wlan0```
+2. Change to the project directory
+   ```bash
+   cd arper```
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt```
+4. Using
+   ```bash
+   sudo python3 arper.py <victim_ip> <gateway_ip> <interface>```
+5. Example:
+   ```bash
+   sudo python3 arper.py 192.168.100.3 192.168.100.13 wlan0```
