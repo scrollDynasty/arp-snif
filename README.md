@@ -1,7 +1,5 @@
 # Arper: BETA Project
 
-![Arper Logo](logo.png)
-
 Welcome to the **Arper** project! 🚀
 
 ## Overview
@@ -31,3 +29,9 @@ To get started with **Arper**, follow these steps:
 5. Example:
    ```bash
    sudo python3 arper.py 192.168.100.3 192.168.100.13 wlan0
+
+# Contributing: We welcome contributions to improve and expand Arper! If you have ideas, bug reports, or feature requests, please open an issue or submit a pull request
+
+# Acknowledgments: A big thank you to the open-source community for their invaluable tools and resources 
+
+# Stay tuned for more updates as we continue to develop and enhance Arper! 💻✨
